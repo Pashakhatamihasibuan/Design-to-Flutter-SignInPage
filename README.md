@@ -21,9 +21,10 @@ Interactive Elements: Includes functional input fields, buttons, and password vi
 
 ## 📸 Screenshots
 
-<img src="(https://github.com/Pashakhatamihasibuan/Design-to-Flutter-SignInPage/blob/main/figma/signInScreenV1.png)" width=50% height=50%>
+<img width="322" alt="2022-04-09_122409" src="https://github.com/Pashakhatamihasibuan/Design-to-Flutter-SignInPage/blob/main/figma/signInScreenV1.png">
 
-<img src="(https://github.com/Pashakhatamihasibuan/Design-to-Flutter-SignInPage/blob/main/figma/SignInScreenV2.png)" width=50% height=50%>
+<img width="322" alt="2022-04-09_122409" src="https://github.com/Pashakhatamihasibuan/Design-to-Flutter-SignInPage/blob/main/figma/signInScreenV1.png">
+
 
 ## 🚀 How to Run
 
